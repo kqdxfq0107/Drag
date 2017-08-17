@@ -1,0 +1,17 @@
+#box{
+	width: 200px;
+	height: 200px;
+	background: dodgerblue;
+	border: 10px solid blueviolet;
+	font-size: 30px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+/*span{
+	display: inline-block;
+	width: 100px;
+	height: 40px;
+	font-size: 30px;
+	margin: 0 auto;
+}*/
